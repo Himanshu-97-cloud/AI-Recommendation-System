@@ -2,32 +2,17 @@
 
 ## Description
 
-This project recommends courses based on user interests.
+Recommends courses based on user interests.
 
-The system compares user preferences with available course categories and suggests the most relevant options.
+## Demo
 
-## Technologies Used
-
-- Python
+![Recommendation Output](screenshot.png)
 
 ## Features
 
-- Interest-based recommendations
-- Match scoring
-- User-friendly interaction
-- Personalized suggestions
-
-## Example
-
-Input:
-
-python, ai
-
-Output:
-
-Machine Learning
-Data Science
-Python Basics
+- Preference Matching
+- Recommendation Logic
+- Personalized Suggestions
 
 ## How to Run
 
